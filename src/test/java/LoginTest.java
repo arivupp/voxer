@@ -23,9 +23,9 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by keerthana on 2/19/2016.
+ * Created by keerthana  goin to mergegon 2/19/2016.
  */
-//changes dn einnnjshfsjknf
+
 public class LoginTest {
     WebDriver driver;
     AppiumDriverLocalService service;
